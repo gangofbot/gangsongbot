@@ -1,1 +1,1 @@
-worker: python3 gang.py
+worker: python3 jebot.py
