@@ -17,7 +17,7 @@ import sys
 import time
 from youtube_search import YoutubeSearch
 from pyrogram import filters, Client
-from sample_config import Config
+from sample_config import Sampleconfig
 from youtube_dl import YoutubeDL
 from youtube_dl.utils import (
     ContentTooShortError,
