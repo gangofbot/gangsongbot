@@ -223,7 +223,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "🦋Help🦋", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "🍄Channel🍄", url="https://t.me/psykd")
+                                            "🍄Channel🍄", url="https://t.me/gangsterbio")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
