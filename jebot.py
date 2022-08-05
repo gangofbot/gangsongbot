@@ -15,7 +15,7 @@ import asyncio
 import json
 import sys
 import time
-from youtube_search_python==1.4.9 import SearchVideos
+from youtube_search import SearchVideos
 from pyrogram import filters, Client
 from sample_config import Config
 from youtube_dl import YoutubeDL
