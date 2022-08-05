@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/gangofbot/gangsongbott/tree/main",
+    "repository": "https://github.com/gangofbot/gangsongbot/tree/main",
     "success_url": "https://t.me/Infinity_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
