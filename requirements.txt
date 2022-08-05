@@ -1,8 +1,7 @@
-youtube_search
+youtube_search_python==1.4.9
 requests
 youtube_dl
 aiohttp
 Pyrogram
 Tgcrypto
 asyncio
-
