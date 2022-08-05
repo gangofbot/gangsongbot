@@ -280,4 +280,4 @@ Join @tzkid 🦋✨
 """
 )
 
-Jebot.run().
+Jebot.run()
